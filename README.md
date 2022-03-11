@@ -11,7 +11,7 @@
 ## Install
 
 ```
-git clone https://github.com/chaitanyapotti/MembershipVerificationToken.git
+git clone https://github.com/chaitanyapotti/datascienceisnotreal.git
 cd MembershipVerificationToken
 npm install
 ```
