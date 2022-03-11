@@ -3,10 +3,10 @@
 <!-- <img align="center" src="./img/colonyNetwork_color.svg" /> -->
 
 [![npm version](https://badge.fury.io/js/membershipverificationtoken.svg)](https://badge.fury.io/js/membershipverificationtoken)
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/ElectusProtocol/Lobby)
+
 [![CircleCI](https://circleci.com/gh/chaitanyapotti/MembershipVerificationToken/tree/master.svg?style=shield)](https://circleci.com/gh/chaitanyapotti/MembershipVerificationToken/tree/master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/chaitanyapotti/MembershipVerificationToken.svg)](https://greenkeeper.io/)
-[![codecov](https://codecov.io/gh/chaitanyapotti/MembershipVerificationToken/branch/master/graph/badge.svg)](https://codecov.io/gh/chaitanyapotti/MembershipVerificationToken)
+
 
 ## Install
 
@@ -99,7 +99,6 @@ Membership Verification Token is meant to provide secure, tested and community-a
 
 The core development principles and strategies that Membership Verification Token is based on include: security in depth, simple and modular code, clarity-driven naming conventions, comprehensive unit testing, pre-and-post-condition sanity checks, code consistency, and regular audits.
 
-If you find a security issue, please email [chaitanya.potti@gmail.com](mailto:chaitanya.potti@gmail.com).
 
 ## Contributing
 
