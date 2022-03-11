@@ -11,7 +11,7 @@
 ## Install
 
 ```
-git clone https://github.com/chaitanyapotti/datascienceisnotreal.git
+git clone https://github.com/malcolm-dane/datascienceisnotreal.git
 cd MembershipVerificationToken
 npm install
 ```
